@@ -1,0 +1,1 @@
+** Algorytm Needlemana-Wunsha
